@@ -2,6 +2,9 @@
 
 A personal collection of scripts, utilities, and resources which I created for CTFs.
 
+## Disclaimer
+Programs contained within this repository are intended only for ethical and legal use. I am not responsible for how you use these programs.
+
 ## Structure
 
 These scripts are grouped by use case:
