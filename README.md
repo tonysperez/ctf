@@ -9,12 +9,12 @@ Programs contained within this repository are intended only for ethical and lega
 
 These scripts are grouped by use case:
 - **`password_cracking/`** - Hash cracking, wordlists, formatting
-  - **`combinator+.py`** - Combines 2-3 wordlists like Hashcat's combinator attack mode
+  - **`combinator+`** - Combines 2-3 wordlists like Hashcat's combinator attack mode
   - **`wordlists/`** - Wordlists
     - **`verbs.txt`** - List of English verbs
     - **`adjectives.txt`** - List of English adjectives
 - **`log_analysis/`** - Parsing and searching logs
-  - **`correlog.py`** - Find total and uniqie matches, correlate multiple fields
+  - **`correlog`** - Find total and uniqie matches, correlate multiple fields
 - **`network_analysis/`** - Parsing network traffic
 - **`misc/`** - Scripts that don’t fit into the above categories
 
