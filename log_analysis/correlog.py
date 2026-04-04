@@ -3,12 +3,12 @@ import argparse
 import csv
 from collections import Counter, defaultdict
 
-# This script ingests a log file for analysis for easy 
-# analysis via REGEX. 
+# This script ingests a log file for analysis for easy analysis via REGEX. 
 # If you spesify either no capture groups or 1 capture group, correlog can:
 # - Count both total and unique matches (especially useful if you use a capture group)
 # - Calculate averages
 # - Identify the most and least prevelant matches
+# - Count how many times each value appears
 #
 # The unique feature of correlog is that you can spesify 2
 # capture groups in your REGEX, and correlog will associate those
