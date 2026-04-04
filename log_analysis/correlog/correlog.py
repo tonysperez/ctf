@@ -1,13 +1,10 @@
+"Extracting information from a log using REGEX. \nUsage: correlog.py <log file> '<regex>' <arguments, optional>"
 # See README for details
 
 import re
 import argparse
 import csv
 from collections import Counter, defaultdict
-
-correlog.py.__doc__="Extracting information from a log using REGEX. \nUsage: correlog.py <log file> '<regex>'"
-
-# TODO: Document :)
 
 def normalize(value):
     if value is None:
