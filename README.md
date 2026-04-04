@@ -13,6 +13,7 @@ These scripts are grouped by use case:
   - **`wordlists/`** - Wordlists
     - **`verbs.txt`** - List of English verbs
     - **`adjectives.txt`** - List of English adjectives
+    - **`nouns.txt`** - List of English  nouns
 - **`log_analysis/`** - Parsing and searching logs
   - **`correlog`** - Find total and uniqie matches, correlate multiple fields
 - **`network_analysis/`** - Parsing network traffic
