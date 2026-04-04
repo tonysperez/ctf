@@ -10,7 +10,7 @@ Programs contained within this repository are intended only for ethical and lega
 These scripts are grouped by use case:
 - **`password_cracking/`** - Hash cracking, wordlists, formatting
   - **`combinator+`** - Combines 2-3 wordlists like Hashcat's combinator attack mode
-  - **`wordlists/`** - Wordlists
+  - **`wordlists/`** - Wordlists, typically used for password cracking and enumeration
     - **`verbs.txt`** - List of English verbs
     - **`adjectives.txt`** - List of English adjectives
     - **`nouns.txt`** - List of English  nouns
