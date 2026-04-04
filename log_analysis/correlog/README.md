@@ -1,4 +1,5 @@
 # Description
+Pronounced 'KOR-uh-log'
 This script ingests a log file for analysis for easy analysis via REGEX. 
 
 ## 0 - 1 Capture Group
