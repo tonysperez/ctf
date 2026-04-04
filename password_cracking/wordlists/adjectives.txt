@@ -1,7 +1,6 @@
 # Source: https://github.com/pablobiedma/Adjectives_in_English/blob/main/adjectives.txt
 # Copyright pablobiedma under the MIT License (license text not provided by upstream repo)
-
-﻿abandoned
+abandoned
 abdominal
 abhorrent
 abiding

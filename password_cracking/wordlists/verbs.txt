@@ -1,6 +1,5 @@
 ﻿# Source https://github.com/legend80s/verb-corpus/blob/master/generated/complete.json
 # Copyright legend80s under the MIT License (see verbs-license.txt)
-
 abandon
 abate
 abbreviate
