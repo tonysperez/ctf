@@ -9,6 +9,7 @@ Programs contained within this repository are intended only for ethical and lega
 
 These scripts are grouped by use case:
 - **`password_cracking/`** - Hash cracking, wordlists, formatting
+  - **`combinator+.py`** - Combines 2-3 wordlists like Hashcat's combinator attack mode
 - **`log_analysis/`** - Parsing and searching logs
 - **`network_analysis/`** - Parsing network traffic
 - **`misc/`** - Scripts that don’t fit into the above categories
