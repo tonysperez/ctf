@@ -15,7 +15,7 @@ These scripts are grouped by use case:
     - **`adjectives.txt`** - List of English adjectives
     - **`nouns.txt`** - List of English  nouns
 - **`log_analysis/`** - Parsing and searching logs
-  - **`correlog`** - Find total and uniqie matches, correlate multiple fields
+  - **`correlog`** - Regex-based log extractor. Extracts matches, computes frequencies and averages, correlates 2 seperate capture groups.
 - **`network_analysis/`** - Parsing network traffic
 - **`misc/`** - Scripts that don’t fit into the above categories
 
