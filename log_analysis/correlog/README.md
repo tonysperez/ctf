@@ -1,6 +1,5 @@
 # Description
-Pronounced 'KOR-uh-log'
-
+Pronounced 'KOR-uh-log'  
 This script ingests a log file for analysis for easy analysis via REGEX. 
 
 ## 0 - 1 Capture Group
@@ -25,15 +24,10 @@ a database.
 Accepts any text, no spesific structure required. The beauty of REGEX is that so long as there is some structure of any kind, you can parse it.
 
 # Arguments
--n \<x> : Print the top x results. Defaults to 10
-
--b : Print the bottom results instead of the top
-
--v : Print all results
-
--g \<group 1> \<group 2, optional> : Spesifies the capture groups you 
-want
-
+-n \<x> : Print the top x results. Defaults to 10  
+-b : Print the bottom results instead of the top  
+-v : Print all results  
+-g \<group 1> \<group 2, optional> : Spesifies the capture group indicies you want to process   
 --csv \<outputfile> : Export the full output to a CSV
 
 # Usage
