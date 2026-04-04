@@ -49,8 +49,9 @@ correlog.py logs.txt "(\d+\.\d+\.\d+\.\d+):(\d+)" -g 1 2
 # Todo
 
 - [ ] Document :)  
-- [ ] Fix broken -v  
-- [ ] Make REGEX multiline so you can correlate matches from diffrent lines. Ensure that this function is optionally enabled via argument as it will make REGEX creation harder  
-- [ ] Make averages work for floats, not just ints  
+- [X] Fix broken -v  
+- [X] Add -vv, which shows where all are in the source log
+- [X] Make REGEX multiline so you can correlate matches from diffrent lines. Ensure that this function is optionally enabled via argument as it will make REGEX creation harder  
+- [X] Make averages work for floats, not just ints  
 - [ ] If a group is entirely ints / floats, add another output which sorts by matched value, not occurance count
 - [ ] Make --csv confirm before overwriting a file  
