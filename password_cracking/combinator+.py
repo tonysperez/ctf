@@ -163,8 +163,8 @@ def stream_combine(files, outfile, total_lines):
 def main():
     if len(sys.argv) not in [4, 5]:
         print("Usage:")
-        print("  python combiner.py file1 file2 output.txt")
-        print("  python combiner.py file1 file2 file3 output.txt")
+        print("  python combinator+.py wordlist1 wordlist2 outputwordlist")
+        print("  python combinator+.py wordlist1 wordlist2 wordlist3 outputwordlist")
         sys.exit(1)
 
     *input_files, output_file = sys.argv[1:]
