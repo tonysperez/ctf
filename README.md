@@ -27,10 +27,10 @@ These scripts are grouped by use case:
 
 ## Usage
 
-Most programs here can be run directly with Python but will require arguments. Refer to the program's docstring for details.
+Most programs here can be run directly with Python but will require arguments. Refer to the program's README for details.
 
 ## Note
 - This repository is a living toolkit and evolves as I complete challenges
 - Most of these programs are not as efficient or well-written as they could be. Should you find a program that you want to improve, PRs are welcome!
-- These programs are in various states of working-ness. Refer to a programs header for its status
+- These programs *should* all work. Check a programs README for it's status and any known issues
 - These programs may be changed, refactored, reorganized, or retired over time
