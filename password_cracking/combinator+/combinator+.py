@@ -1,10 +1,9 @@
+"Combinators 2-3 wordlists. \nUsage: combinator+.py <wordlist1> <wordlist2> <wordlist3, optional> <output>"
+
 # See README for details
 
 import sys
 import time
-
-combinator+.__doc__ = "Combinators 2-3 wordlists. \nUsage: combinator+.py <wordlist1> \\
-<wordlist2> <wordlist3, optional> <output>"
 
 # Gets the number of lines in the wordlist and the average length
 # of those lines. Used to ballpark how long the resulting wordlist
